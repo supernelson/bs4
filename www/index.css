@@ -1,0 +1,62 @@
+/* h1 {
+    font-family: 'Oswald';
+} */
+
+body {
+    font-family: Oswald;
+}
+
+h1 {
+    font-size: 45px;
+    letter-spacing: 4px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 18px;
+}
+
+.labels {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background: #ea571b;
+    color: white;
+}
+.label {
+    font-size: 25px;   
+}
+
+.match-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: 1px solid red;
+    color: #ea571b;
+}
+
+.match-container:hover{
+    background: #FCF1EC; /* make this whatever you want */
+    }
+    
+
+.detail {
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.time {
+    padding: 5px;
+    font-weight: bolder;
+}
+.league{
+    font-size: 26px;
+}
+.game {
+    height: 50px;
+    width: 100px;
+}
+.vs {
+    font-size: 25px;
+}
